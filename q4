@@ -1,0 +1,50 @@
+what is the difference between parameter 
+
+
+
+
+
+class s:
+    def c(self,num):
+       if num>0:
+          return num
+    return -1
+num=5
+o=s()
+o.c(num)
+
+
+d={1:"nisha",2:"taj"}
+d.get(1)
+
+
+Write code to count how many times the number 5 appears in [5, 2, 5, 3, 5]
+class s:
+   def(self,arr):
+      d={}
+      for i in arr:
+         if in  d:
+             d[arr]+=1 
+         else:
+            d[num]=1
+
+
+
+difference between aggregate func and group by?
+
+
+difference between where and having?
+
+
+what is null?
+
+
+
+what is inner join?
+
+
+
+What is the difference between COUNT(*) and COUNT(salary)?
+
+
+
