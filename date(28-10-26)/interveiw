@@ -1,0 +1,32 @@
+[10:19 am, 28/10/2026] Ganesh Pasala - Algonex: def outer():
+    x = 10
+    def inner():
+        return x + 5
+
+    return inner
+
+f = outer()
+print(f())
+[10:20 am, 28/10/2026] KolkarNishazareentaj: 15
+[10:21 am, 28/10/2026] Ganesh Pasala - Algonex: x = 5
+def change():
+    x = 10
+
+change()
+print(x)
+[10:22 am, 28/10/2026] +91 99083 66216: 5
+[10:22 am, 28/10/2026] KolkarNishazareentaj: 5
+[10:23 am, 28/10/2026] KolkarNishazareentaj: local variable
+[10:23 am, 28/10/2026] KolkarNishazareentaj: global
+[10:24 am, 28/10/2026] KolkarNishazareentaj: x = 5
+def change():
+    x = 10
+return x
+
+change()
+[10:24 am, 28/10/2026] +91 99083 66216: x = 5
+def change():
+    x = 10
+    return x
+
+print(change())
