@@ -1,7 +1,7 @@
 [10:19 am, 28/10/2026] Ganesh Pasala - Algonex: def outer():
     x = 10
     def inner():
-        return x + 5
+        return x + 5 
 
     return inner
 
